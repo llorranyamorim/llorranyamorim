@@ -9,10 +9,9 @@ Me chamo Lorrany Amorim de Oliveira, tenho 30 anos e sou natural de Brasilia/DF.
 
 ### Estudos
 
-Atualmente focada em aprender Robot Framework, Git Actions e Docker.
+...
 
-### Mas...como eu falo com você?
-Bem você pode entrar em contato comigo através 
+### Entre em contato comigo através: 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](llorranyamorim@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/llorranyamorim/) 
 
