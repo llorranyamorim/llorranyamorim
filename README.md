@@ -1,11 +1,13 @@
-# 👩🏻‍💻 Lorrany Amorim de Oliveira
+# 👋 Olá! Seja bem-vindo(a).
 
-**`Desenvolvedora FullStack`**
+**`Analista de Qualidade e Testes de Software`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Lorrany Amorim de Oliveira, tenho 30 anos e sou natural de Brasilia/DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP, finalizando em Dezembro de 2026. Apaixonada por tecnologia, me identifiquei com essa área pois trago comigo um perfil analítico, proativo e comprometido com qualidade de ponta a ponta, atenção aos detalhes e por acreditar que a qualidade do software impacta diretamente a experiência e o dia a dia das pessoas. Possuo uma visão sistêmica e habilidade de antecipar falhas antes que virem problemas. 
+
+🔍 Sou movida por um propósito claro: entregar produtos com qualidade real, que funcionem de verdade e façam sentido para o usuário. 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.linkedin.com/in/llorranyamorim/)">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
