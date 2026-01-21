@@ -36,7 +36,7 @@ Em minha jornada de estudos, adquiri conhecimentos em:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Metodologias Ageis
+#### Metodologias Ágeis
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-00BCD4?style=for-the-badge)
