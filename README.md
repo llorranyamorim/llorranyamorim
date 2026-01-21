@@ -14,7 +14,7 @@ Atualmente aprimorando meus conhecimentos em testes de software, com foco em tes
 
 Em minha jornada de estudos, adquiri conhecimentos em:
 
-[Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 • Testes manuais, testes regressivos, testes exporatórios e testes de API uitilizando a ferramenta Postman;
