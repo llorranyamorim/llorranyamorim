@@ -14,7 +14,15 @@ Atualmente aprimorando meus conhecimentos em testes de software, com foco em tes
 
 Em minha jornada de estudos, adquiri conhecimentos em:
 
+###Ferradamentas: 
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_%C3%81geis-FF9800?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-00BCD4?style=for-the-badge)
+
 
 
 • Testes manuais, testes regressivos, testes exporatórios e testes de API uitilizando a ferramenta Postman;
