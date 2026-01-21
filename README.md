@@ -14,22 +14,33 @@ Atualmente aprimorando meus conhecimentos em testes de software, com foco em tes
 
 Em minha jornada de estudos, adquiri conhecimentos em:
 
-###Ferradamentas: 
+![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Testes Funcionais](https://img.shields.io/badge/Testes_Funcionais-2196F3?style=for-the-badge)
+![Casos de Teste](https://img.shields.io/badge/Casos_de_Teste-9C27B0?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-795548?style=for-the-badge)
+![Gherkin](https://img.shields.io/badge/Gherkin-2E7D32?style=for-the-badge)
+![Testes de Regressão](https://img.shields.io/badge/Testes_de_Regress%C3%A3o-FF5722?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Automação 
+
+![Cypress](https://img.shields.io/badge/Cypress_Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+#### Linguagem
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Ferramentas
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Metodologias Ágeis](https://img.shields.io/badge/Metodologias_%C3%81geis-FF9800?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Metodologias Ageis
+
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-00BCD4?style=for-the-badge)
-
-
-
-• Testes manuais, testes regressivos, testes exporatórios e testes de API uitilizando a ferramenta Postman;
-• Criação e execução de planos e cenários de teste;
-• Automação com Cypress;
-• Metodologias ágeis (Scrum, Kanban, Jira);
-• Linguagens: JavaScript;
 
 ### Projetos Pessoais
 
