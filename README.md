@@ -20,7 +20,7 @@ Em minha jornada de estudos, adquiri conhecimentos em:
 ![BDD](https://img.shields.io/badge/BDD-795548?style=for-the-badge)
 ![Gherkin](https://img.shields.io/badge/Gherkin-2E7D32?style=for-the-badge)
 ![Testes de Regressão](https://img.shields.io/badge/Testes_de_Regress%C3%A3o-FF5722?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white)
+![Teste de API](https://img.shields.io/badge/API_Testing-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Automação 
 
