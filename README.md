@@ -8,7 +8,7 @@ Me chamo Lorrany Amorim de Oliveira, tenho 30 anos e sou natural de Brasilia/DF.
 
 ### 📚 Estudos
 
-Atualmente aprimorando meus conhecimentos em testes de software, com foco em testes manuais e introdução à automação e em preparação para a certificação CTFL (Certified Tester Foundation Level).
+Atualmente aprimorando meus conhecimentos em testes de software, com foco em testes manuais, introdução à automação e em preparação para a certificação CTFL (Certified Tester Foundation Level).
 
 
 Em minha jornada de estudos, adquiri conhecimentos em:
