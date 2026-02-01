@@ -50,7 +50,7 @@ Vou deixar aqui os links para facilitar seu acesso aos meus repositórios.
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
 
-[Testes de API com Cypress]([https://github.com/llorranyamorim/CasosdeTeste_TesteTecnico](https://github.com/llorranyamorim/Mentoria_APIcomCypress)
+[Testes de API com Cypress](https://github.com/llorranyamorim/Mentoria_APIcomCypress)
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/API_REST-00A8E8?style=for-the-badge&logo=api&logoColor=white" />
